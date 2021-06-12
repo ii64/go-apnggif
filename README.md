@@ -11,6 +11,8 @@ or
 go build apnggif_syscalll_windows.go
 ```
 
+![](try.gif)
+
 ## License
 
 [zlib/libpng License](https://opensource.org/licenses/Zlib).
